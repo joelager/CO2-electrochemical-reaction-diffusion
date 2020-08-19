@@ -1,7 +1,7 @@
 # CO2-electrochemical-reaction-diffusion
 Author: Joel W. Ager (jwager@lbl.gov)
 
-Different approaches to solve the reaction-diffusion equations for CO2-bicarbonate-carbonate-hydroxide system in 1D and in 2D using Python packages. 
+Different approaches to solve the reaction-diffusion equations for the CO2-bicarbonate-carbonate-hydroxide system in 1D and in 2D using Python packages. 
  
 After Gattrell and co-workers:  
 Gupta, N.; Gattrell, M.; MacDougall, B. Calculation for the Cathode Surface Concentrations in the Electrochemical Reduction of CO2 in KHCO3 Solutions. J. Appl. Electrochem. 2006, 36, 161–172.
